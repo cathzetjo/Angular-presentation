@@ -1,6 +1,10 @@
-##ANGULAR
-[The link to the slides](http://cathzetjo.github.io/Angular-presentation)
+## ANGULAR  
+
+[The link to the slides](http://cathzetjo.github.io/Angular-presentation)  
 [The link to the YouTube video](https://youtu.be/PB67Y6ZVFJ8)  
+
+#### Ttranscript of the presentation:
+
 Hello everyone.  
 
 Today we are going to talk with you about Angular.  
